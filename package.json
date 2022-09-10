@@ -1,0 +1,15 @@
+{
+  "name": "expressfiles",
+  "version": "1.0.0",
+  "description": "express pratice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maaz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "requests": "^0.3.0"
+  }
+}
